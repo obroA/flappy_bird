@@ -1,2 +1,2 @@
 # flappy_bird
-Igrica Flappy bird v java netbeans
+Igrica Flappy bird
